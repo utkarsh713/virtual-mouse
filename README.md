@@ -1,11 +1,11 @@
-# 🖐️ AI Virtual Desktop Pro
+# AI Virtual Desktop Pro
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0066FF,100:8A2BE2&height=200&section=header&text=AI%20Virtual%20Desktop%20Pro&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <strong>🤖 Control Your Desktop Using Hand Gestures & Computer Vision</strong>
+  <strong> Control Your Desktop Using Hand Gestures & Computer Vision</strong>
 </p>
 
 <p align="center">
@@ -295,15 +295,6 @@ These controls are handled directly inside the main application loop. filecit
   <img src="https://skillicons.dev/icons?i=python,opencv" />
 </p>
 
-### Core Technologies
-
-- 🐍 **Python**
-- 👁️ **OpenCV**
-- ✋ **MediaPipe**
-- 🖱️ **PyAutoGUI**
-- ☀️ **Screen Brightness Control**
-- 🖥️ **OS / subprocess APIs**
-
 ### Libraries
 
 ```text
@@ -429,36 +420,6 @@ Possible future upgrades:
 - 🎮 Gesture-controlled games
 
 ---
-
-## ⚠️ Notes
-
-- A webcam is required.
-- Good lighting improves hand detection.
-- Keep the hand clearly visible inside the camera frame.
-- Desktop actions depend on the operating system and application receiving the generated mouse/keyboard/media events.
-- Brightness control depends on hardware/OS support.
-- The current source contains a volume-key helper, but no active gesture mapping invokes it yet.
-
----
-
-## 👨‍💻 Author
-
-**Utkarsh Barnwal**
-
-BCA | Developer | AI/ML Enthusiast
-
----
-
-## ⭐ Support
-
-If you like this project:
-
-```text
-⭐ Star the repository
-🍴 Fork it
-💻 Try it
-🚀 Build your own gesture controls
-```
 
 <p align="center">
   Made with ❤️ + 🐍 Python + 👁️ Computer Vision
